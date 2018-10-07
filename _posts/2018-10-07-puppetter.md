@@ -127,7 +127,7 @@ url = 'https://example.com';
 })();
 ```
 
-在实际的使用当中，通过设置时间响应函数是获取数据的主要方式，结合修改页面源码与获取截图，可完成绝大多数爬虫所需要的功能。
+在实际的使用当中，通过设置事件响应函数是获取数据的主要方式，结合修改页面源码与获取截图，可完成绝大多数爬虫所需要的功能。
 
 ### API
 见[Puppeteer文档](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/?id=%e6%a6%82%e8%bf%b0https://zhaoqize.github.io/puppeteer-api-zh_CN/#/?id=puppeteer-%e4%b8%ad%e6%96%87%e6%96%87%e6%a1%a3)
